@@ -46,3 +46,10 @@
  		Push feature/Ticket222
  (31) 	Checkout feature/Ticket 222
  (32)	Checkout develop bitacora.txt
+ (34)	Add bitacora.txt
+ (34)	Commit -m "Paso 34"
+ (35)	Checkout develop
+ (35)	Merge feature/Ticket222		Al realizar el merge se produce conflictos en el archivo bitacora.txt.
+ 									Se producen en la linea 38, la solucion fue quedarse con la segunda opción que contenia todo el texto escrito.
+ (36)	Checkout master
+ (36)	Merge develop

@@ -16,3 +16,10 @@
  (07)	Branch feature/Ticket220
  (07)	Checkout feature/Ticket220
  (13)	Stash "Paso 13"
+ (17)	Stash apply "Paso 13"
+ (18)	Add bitacora.txt
+ (18)	Commit -m "Paso 18"
+ (19)	Checkout develop
+ (20)	Branch feature/Ticket222
+ (21)	Checkout feature/Ticket220
+ (22)	Fast-forward

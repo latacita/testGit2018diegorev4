@@ -36,3 +36,13 @@
  (25)	Merge feature/Ticket220
  (26)	Merge feature/Ticket221		Al realizar el merge se producen conflictos en el archivo bitacora.txt.
  									Se han solucionado manteniendo los cambios provenientes de las dos ramas pero reordenandolos por pasos.
+ (28)	Add bitacora.txt
+ (28)	Commit -m "Paso 28"
+ (29)	Tag "Step29" idCommit
+ (30)	Push master
+ 		Push develop --noTag
+ 		Push feature/Ticket220
+ 		Push feature/Ticket221
+ 		Push feature/Ticket222
+ (31) 	Checkout feature/Ticket 222
+ (32)	Checkout develop bitacora.txt

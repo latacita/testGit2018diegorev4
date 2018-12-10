@@ -6,3 +6,7 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ (01)	Clone https://github.com/latacita/testGit2018diegorev4
+ (03) 	Add bitacora.txt
+ (03)	Commit -m "Pasos 1-3, Nombre añadido al fichero bitacora.txt"
+ (03)	Push

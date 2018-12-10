@@ -10,3 +10,10 @@
  (03) 	Add bitacora.txt
  (03)	Commit -m "Pasos 1-3, Nombre añadido al fichero bitacora.txt"
  (03)	Push
+ (09)	Add bitacora.txt
+ (09)	Commit -m "Paso 09"
+ (10)	Checkout develop
+ (11)	Branch feature/Ticket221
+ (15)	Add bitacora.txt
+ (15)	Commit -m "Paso 15"
+ (16)	Checkout feature/Ticket221

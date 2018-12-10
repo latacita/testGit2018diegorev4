@@ -10,3 +10,39 @@
  (03) 	Add bitacora.txt
  (03)	Commit -m "Pasos 1-3, Nombre añadido al fichero bitacora.txt"
  (03)	Push
+ (05)	Add bitacora.txt
+ (05)	Commit -m "Paso 05"
+ (06)	Branch develop
+ (07)	Branch feature/Ticket220
+ (07)	Checkout feature/Ticket220
+ (09)	Add bitacora.txt
+ (09)	Commit -m "Paso 09"
+ (10)	Checkout develop
+ (11)	Branch feature/Ticket221
+ (13)	Stash "Paso 13"
+ (15)	Add bitacora.txt
+ (15)	Commit -m "Paso 15"
+ (16)	Checkout feature/Ticket221
+ (17)	Stash apply "Paso 13"
+ (18)	Add bitacora.txt
+ (18)	Commit -m "Paso 18"
+ (19)	Checkout develop
+ (20)	Branch feature/Ticket222
+ (21)	Checkout feature/Ticket220
+ (22)	Fast-forward
+ (23)	Add bitacora.txt
+ (23)	Commit -m "Paso 23"	
+ (24)	Checkout develop
+ (25)	Merge feature/Ticket220
+ (26)	Merge feature/Ticket221		Al realizar el merge se producen conflictos en el archivo bitacora.txt.
+ 									Se han solucionado manteniendo los cambios provenientes de las dos ramas pero reordenandolos por pasos.
+ (28)	Add bitacora.txt
+ (28)	Commit -m "Paso 28"
+ (29)	Tag "Step29" idCommit
+ (30)	Push master
+ 		Push develop --noTag
+ 		Push feature/Ticket220
+ 		Push feature/Ticket221
+ 		Push feature/Ticket222
+ (31) 	Checkout feature/Ticket 222
+ (32)	Checkout develop bitacora.txt

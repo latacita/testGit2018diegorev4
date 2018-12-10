@@ -30,3 +30,9 @@
  (20)	Branch feature/Ticket222
  (21)	Checkout feature/Ticket220
  (22)	Fast-forward
+ (23)	Add bitacora.txt
+ (23)	Commit -m "Paso 23"	
+ (24)	Checkout develop
+ (25)	Merge feature/Ticket220
+ (26)	Merge feature/Ticket221		Al realizar el merge se producen conflictos en el archivo bitacora.txt.
+ 									Se han solucionado manteniendo los cambios provenientes de las dos ramas pero reordenandolos por pasos.
